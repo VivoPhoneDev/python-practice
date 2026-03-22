@@ -1,0 +1,2 @@
+# Python
+smt easy

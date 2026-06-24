@@ -1,2 +1,1 @@
-Here`s no interesting 
-i am just learning to code
+It`s my journey in Python <3
